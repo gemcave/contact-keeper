@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://gemcave123:admin123@contactkeeper-5dxhd.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
